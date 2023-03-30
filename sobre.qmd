@@ -1,0 +1,24 @@
+---
+title: "Sobre"
+about:
+  template: jolla
+  image: assets/lattes.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/jultty
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/jultty
+---
+
+Olá, eu sou a Juno.
+
+Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo, campus Jacareí, tradutora e adicta de cursos de tecnologia.
+
+Estou sempre estudando algo relacionado a DevOps, sistemas operacionais, Node, cibersegurança ou redes. Há várias outras áreas que me interessam, mas infelizmente a memória humana não é expansível.
+
+Acredito que fluência é mais importante do que o sentimento de *dominar* uma tecnologia. Mais por ímpeto do que intenção, estou sempre aprendendo sobre uma ferramenta diferente.
+
+  
+Você pode me encontrar também nos links abaixo:

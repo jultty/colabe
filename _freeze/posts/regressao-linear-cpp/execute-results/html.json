@@ -1,0 +1,14 @@
+{
+  "hash": "67965238ae4b661a490e1343c0a28e8a",
+  "result": {
+    "markdown": "---\ntitle: \"Regressão linear com C++\"\nauthor: \"Juno\"\ndate: \"2023-03-29\"\ncategories: [c++]\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n2+2\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n\n\n```python\nimport matplotlib.pyplot as plt\nplt.plot([1,2,3,4])\nplt.show()\n```\n\n```javascript\nlet n = 1;\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

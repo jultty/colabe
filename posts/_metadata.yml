@@ -1,0 +1,12 @@
+freeze: true
+title-block-banner: true
+date-modified: last-modified
+lang: pt
+language:
+  title-block-author-single: "Por"
+  title-block-published: "Última atualização"
+format:
+  html:
+    code-block-bg: true
+    code-block-border-left: "#31E931"
+
