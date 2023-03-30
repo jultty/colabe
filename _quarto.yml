@@ -18,7 +18,6 @@ website:
   repo-url: https://github.com/jultty/colabe
   repo-actions: source
   reader-mode: false
-  back-to-top-navigation: false
   page-footer:
     center:
       - icon: rss
