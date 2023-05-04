@@ -1,8 +1,9 @@
 ---
 title: "Sobre"
+lang: pt
 about:
   template: jolla
-  image: assets/lattes.jpg
+  image: assets/sobre.webp
   links:
     - icon: github
       text: GitHub
@@ -10,15 +11,18 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/jultty
+    - icon: envelope 
+      text: juno@newen.me
+      href: mailto:juno@newen.me
 ---
 
-Olá, eu sou a Juno.
+Sou uma tradutora, desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas no IFSP.
 
-Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo, campus Jacareí, tradutora e adicta de cursos de tecnologia.
+Estou quase sempre estudando algo, e escrevendo sobre aquilo que estudo.
 
-Estou sempre estudando algo relacionado a DevOps, sistemas operacionais, Node, cibersegurança ou redes. Há várias outras áreas que me interessam, mas infelizmente a memória humana não é expansível.
+Este é um espaço para falar sobre sistemas computacionais, DevOps, cibersegurança e redes. Há várias outras áreas que me interessam, mas infelizmente a memória humana não é expansível.
 
-Acredito que fluência é mais importante do que o sentimento de *dominar* uma tecnologia. Mais por ímpeto do que intenção, estou sempre aprendendo sobre uma ferramenta diferente.
+Acredito que fluência e adaptação são mais importantes do que o sentimento de *dominar* uma tecnologia. Se a sua equipe trabalha pensando em impacto socioambiental, eu adoraria conhecê-la.
 
   
-Você pode me encontrar também nos links abaixo:
+Você pode me encontrar nos links abaixo:

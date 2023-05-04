@@ -13,6 +13,8 @@ website:
         href: https://github.com/jultty
       - icon: linkedin
         href: https://linkedin.com/in/jultty
+      - icon: envelope
+        href: mailto:juno@newen.me
   favicon: assets/favicon.svg
   open-graph: true
   repo-url: https://github.com/jultty/colabe
